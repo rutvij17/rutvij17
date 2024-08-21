@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RUTVIJ AJAY MAHALE</h1>
 <h3 align="center">A passionate Creative Software developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rutvij17" alt="rutvij17" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutvij17&label=Profile%20views&color=0e75b6&style=flat" alt="rutvij17" /> </p>
 
 <p align="left"> <a href="https://twitter.com/badshah1643" target="blank"><img src="https://img.shields.io/twitter/follow/badshah1643?logo=twitter&style=for-the-badge" alt="badshah1643" /></a> </p>
 
